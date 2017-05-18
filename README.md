@@ -1,4 +1,4 @@
-# Installfest
+# Installapalooza
 
 We're going to install most of the tools we'll use at Learners Guild onto your computer.
 

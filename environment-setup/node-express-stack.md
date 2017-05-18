@@ -1,4 +1,4 @@
-# Installfest Step 1.1: Node.js & Express Stack
+# Installapalooza Step 1.1: Node.js & Express Stack
 
 Most of the coding work we do at Learners Guild will be driven by the back-end web development framework [Express](http://expressjs.com). We'll install Express individually in each project we create. For now, we'll install the other tools we'll use along with Express.
 

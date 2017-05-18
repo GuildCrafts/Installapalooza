@@ -1,4 +1,4 @@
-# Installfest Step 1: Development Environment Setup
+# Installapalooza Step 1: Development Environment Setup
 
 ## Operating System & Command Line Tools
 

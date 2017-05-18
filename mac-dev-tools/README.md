@@ -1,4 +1,4 @@
-# Installfest Step 2: Mac Development Tools & Applications
+# Installapalooza Step 2: Mac Development Tools & Applications
 
 ## Text Editor
 
