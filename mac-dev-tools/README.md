@@ -4,6 +4,11 @@
 
 [Atom](editor-atom.md) is our preferred text editor. However, feel free to use [Sublime Text 3](editor-sublime-text-3.md) as it is very similar.
 
+Whichever you choose, be sure to install a JavaScript [linter](http://mikecavaliere.com/javascript-linting-what-developers-need-to-know/): 
+
+* [JavaScript linter for Atom](http://www.acuriousanimal.com/2016/08/14/configuring-atom-with-eslint.html)
+* [JavaScript tools for Sublime](https://www.sitepoint.com/essential-sublime-text-javascript-plugins/)
+
 ## Browser
 Chrome is our preferred browser. If you don't already have it, please follow the installation instructions for:
 
